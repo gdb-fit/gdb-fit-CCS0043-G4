@@ -11,7 +11,7 @@
         <link rel="stylesheet" href="FINALStyle.css">
     </head>
     <body>
-    <?php include("Testing.php"); ?>
+    <?php include("Header.php"); ?>
         <div class = "left-box">
                 <h1 class = "left-title"> RESPONSE TEAM </h1>
                 <p class = "left-text"> In case of emergency, <br> contact the response <br> team immediately.  <br> Choose below on what <br> team you want to <br> respond to your need.</p>
